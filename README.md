@@ -1,4 +1,6 @@
-# Devin Walton — Platform Security & Automations Specialist  
+# Devin Walton
+---
+`Platform Security & Automations Specialist`
 
 I build systems that automate repetitive work, reduce failure points, and make life easier for the teams who rely on them.  
 My focus is cloud automation, system reliability, secure infrastructure, and tooling that removes manual overhead.
@@ -60,9 +62,12 @@ A full-time role where I can:
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi-walto&layout=compact&theme=tokyonight" />
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi-walto&layout=compact&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
