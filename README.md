@@ -5,12 +5,12 @@
 I build systems that automate repetitive work, reduce failure points, and make life easier for the teams who rely on them.  
 My focus is cloud automation, system reliability, secure infrastructure, and tooling that removes manual overhead.
 
-[**Email:**](devi.walto@gmail.com)
-[**LinkedIn:**](https://linkedin.com/in/devi-walto)
-![**HandShake**](https://app.joinhandshake.com/profiles/devi-walto?)
+**Email:** ![**here**](devi.walto@gmail.com)
+**LinkedIn:** ![**here**](https://linkedin.com/in/devi-walto)
+**HandShake:** ![**here**](https://app.joinhandshake.com/profiles/devi-walto?)
 
 <p align="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&hide_border=false" height="160" width="100%"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,12 +68,8 @@ A full-time role where I can:
 # 📊 GitHub Stats
 
 ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=gruvbox)
-### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=transparent&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi-walto&layout=compact&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
