@@ -5,14 +5,34 @@ I build systems that automate repetitive work, reduce failure points, and make l
 My focus is cloud automation, system reliability, secure infrastructure, and tooling that removes manual overhead.
 
 ---
-
 **Email:** [devi.walto@gmail.com](mailto:devi.walto@gmail.com)  
 **LinkedIn:** [linkedin.com/in/devi-walto](https://linkedin.com/in/devi-walto)  
 **Handshake:** [handshake.com/devi-walto](https://app.joinhandshake.com/profiles/devi-walto?)
 
-<p align="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&hide_border=false" height="160" width="100%"/>
-</p>
+<!-- ─────────────────────────────────────────────────────────── -->
+<!-- ⭐ TOP GRID + SUMMARY STATS SIDE BY SIDE ⭐ -->
+<!-- ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<!-- 🔥 Contribution Streak Grid -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=gruvbox&hide_border=false" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+<!-- 📈 Summary Stats -->
+<img src="[https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=gruvbox&hide_border=false](https://ghchart.rshah.org/devi-walto" alt="GitHub contribution chart)" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
