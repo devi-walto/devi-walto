@@ -26,8 +26,7 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 <td width="50%" align="center">
 
 <!-- 📈 Summary Stats -->
-<img src="[https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=gruvbox&hide_border=false](https://ghchart.rshah.org/devi-walto" alt="GitHub contribution chart)" width="100%" />
-
+<img src="https://ghchart.rshah.org/devi-walto" alt="GitHub contribution chart" width="95%" />
 </td>
 </tr>
 </table>
@@ -60,14 +59,14 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 
 ---
 
-### 🔹 Current Focus
+### 🧘🏽‍♂️ Current Focus
 
 - Strengthening AWS fundamentals through labs, projects, and certification prep  
 - Deepening automation skills (CI/CD, Bash, Python tooling)  
 - Preparing for internships in **Platform Engineering**, **DevOps**, or **Cloud Security**  
 - Writing more structured tests, pipelines, and infra-as-code to match industry standards  
 
-### 🔹 What I'm Working Toward
+### 📈 What I'm Working Toward
 
 A full-time role where I can:
 
