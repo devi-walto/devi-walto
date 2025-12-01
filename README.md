@@ -5,9 +5,9 @@ I build systems that automate repetitive work, reduce failure points, and make l
 My focus is cloud automation, system reliability, secure infrastructure, and tooling that removes manual overhead.
 
 ---
-**Email:** [devi.walto@gmail.com](mailto:devi.walto@gmail.com)  
-**LinkedIn:** [linkedin.com/in/devi-walto](https://linkedin.com/in/devi-walto)  
-**Handshake:** [handshake.com/devi-walto](https://app.joinhandshake.com/profiles/devi-walto?)
+**✉️ Email:** [devi.walto@gmail.com](mailto:devi.walto@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/devi-walto](https://linkedin.com/in/devi-walto)  
+**🤝🏾 Handshake:** [handshake.com/devi-walto](https://app.joinhandshake.com/profiles/devi-walto?)
 
 <!-- ─────────────────────────────────────────────────────────── -->
 <!-- ⭐ TOP GRID + SUMMARY STATS SIDE BY SIDE ⭐ -->
@@ -20,7 +20,7 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 <td width="50%" align="center">
 
 <!-- 🔥 Contribution Streak Grid -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=gruvbox&hide_border=false" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=transparent&hide_border=false" width="100%" />
 
 </td>
 <td width="50%" align="center">
@@ -81,7 +81,7 @@ A full-time role where I can:
 
 # 📊 GitHub Stats
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=gruvbox)
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devi-walto&show_icons=true&theme=transparent)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi-walto&layout=compact&theme=transparent&hide_border=true" height="160" />
