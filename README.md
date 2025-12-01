@@ -32,7 +32,7 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 </table>
 
 </div>
-
+<img src="https://jandee.vercel.app/devi-walto?scheme=dark" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,bash,linux,py,go,c,cpp,java,django,docker,git,kubernetes,figma,photoshop,arduino" height="40"/>
