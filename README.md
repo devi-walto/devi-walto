@@ -15,15 +15,15 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 
 <div align="center">
 
-<table>
+<table border="0" style="border-collapse: collapse;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="border: none;">
 
 <!-- 🔥 Contribution Streak Grid -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=devi-walto&theme=transparent&hide_border=false" width="100%" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="border: none;">
 
 <!-- 📈 Summary Stats -->
 <img src="https://ghchart.rshah.org/devi-walto" alt="GitHub contribution chart" width="95%" />
@@ -32,7 +32,6 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 </table>
 
 </div>
-<img src="https://jandee.vercel.app/devi-walto?scheme=dark" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,bash,linux,py,go,c,cpp,java,django,docker,git,kubernetes,figma,photoshop,arduino" height="40"/>
