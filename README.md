@@ -8,7 +8,8 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 **✉️ Email:** [devi.walto@gmail.com](mailto:devi.walto@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/devi-walto](https://linkedin.com/in/devi-walto)  
 **🤝🏾 Handshake:** [handshake.com/devi-walto](https://app.joinhandshake.com/profiles/devi-walto?)
-**📄 Resume:** [github.com/devi-walto/resume]([https://github.com/devi-walto/resume](https://github.com/devi-walto/resume/blob/main/DEVIN%20WALTON.pdf)?)
+
+**📄 Resume:** [github.com/devi-walto/resume]([https://github.com/devi-walto/resume](https://github.com/devi-walto/resume/blob/main/DEVIN%20WALTON.pdf?)
 
 <!-- ─────────────────────────────────────────────────────────── -->
 <!-- ⭐ TOP GRID + SUMMARY STATS SIDE BY SIDE ⭐ -->
