@@ -49,7 +49,7 @@ My focus is cloud automation, system reliability, secure infrastructure, and too
 
 | Area                     | Project                                                                 | Stack                              | What it shows |
 |--------------------------|-------------------------------------------------------------------------|------------------------------------|----------------|
-| **Testing & Automation** | [Othello – Automated Testing Suite](https://github.com/devi-walto/Othello) | Python, Pytest, Coverage, QA Tools | Full test architecture (unit + integration), coverage reports, modular design, CI/CD-ready structure, software verification mindset |
+| **Testing & Automation** | [Othello – Automated Testing Suite](https://github.com/devi-walto/Othello) | `Python`, `Pytest`, `Coverage`, `QA Tools` | Full test architecture (unit + integration), coverage reports, modular design, CI/CD-ready structure, software verification mindset |
 | Cloud Automation         | [Cloud Security Pipelines](https://github.com/devi-walto/REPO_CLOUD_PIPELINES) | AWS, Python, GitHub Actions, IAM, S3 | CI/CD, least-privilege IAM, S3 hardening, logging/monitoring, multi-AZ EC2 setup |
 | Systems & Security       | [Privacy Dots – Home Security](https://github.com/devi-walto/REPO_PRIVACY_DOTS) | Raspberry Pi, Django, Linux, Crypto | Local-only security system, network design, fail-safe behavior, data protection |
 | Networking & Infra       | [Enterprise Network Simulation](https://github.com/devi-walto/REPO_ENTERPRISE_NET) | Cisco Packet Tracer, VLANs, ACLs  | Defense-in-depth network design, DHCP/DNS, segmentation, port security |
